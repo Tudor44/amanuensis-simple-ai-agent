@@ -1,0 +1,5 @@
+python-dotenv
+langchain
+openai
+wikipedia
+streamlit
